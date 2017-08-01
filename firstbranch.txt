@@ -5,3 +5,6 @@ and then entered the new branch using the syntax:
 	git checkout firstbranch
 
 
+Then.... I went to modify the file and commit the change again in branch firstbranch
+
+

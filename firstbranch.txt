@@ -9,3 +9,7 @@ Then.... I went to modify the file and commit the change again in branch firstbr
 
 Then I made another modification.... yes, this line
 
+Now, I merged firstbranch into the master branch and then edited the file again in master and performed the checkin
+I want to compare the content of the file - looking at it from both branches (after git checkout)
+
+

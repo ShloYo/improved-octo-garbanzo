@@ -1,0 +1,1 @@
+Changed the local repositiry config to point to the remote config in SSH and not HTTPS

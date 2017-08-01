@@ -1,0 +1,7 @@
+This is a simple file called firstbranch that I created after creating a branch called firstbranch
+I used the syntax:
+	git branch firstbranch
+and then entered the new branch using the syntax:
+	git checkout firstbranch
+
+
